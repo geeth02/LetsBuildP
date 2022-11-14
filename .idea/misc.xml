@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1445" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/drawable/button_bg.xml" value="0.1445" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/drawable/edite_text_layout.xml" value="0.1445" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1445" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_account_approved.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_account_decline.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_account_details.xml" value="0.264" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_account_details_app.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_account_info.xml" value="0.264" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_account_information.xml" value="0.16" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_account_menu.xml" value="0.184375" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_account_not_verify_massage.xml" value="0.2" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_add_service.xml" value="0.2" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_admin_add_ads.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_admin_appoved_ads.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_admin_decline_ads.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_admin_delete_ads.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_admin_login.xml" value="0.264" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_admin_pending_ads.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_approved_ads.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_crew_login.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_customer_dash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_delete_selection.xml" value="0.2" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_lb_crew.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_member_dash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_member_delete_ads.xml" value="0.203125" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_member_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_member_pending_catogory.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_my_ads.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_pending_ads_details.xml" value="0.264" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_pending_ads_member.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_pending_ads_roofing.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_register.xml" value="0.196875" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_select_user.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_view_admin_approved_ads.xml" value="0.203125" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_view_admin_aproved_details.xml" value="0.203125" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_view_civiling.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_view_roofing.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_view_tiling.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/activity_view_wiring.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/geeth/AndroidStudioProjects/LetsBuild/app/src/main/res/layout/product_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811705485239",
+    "project_id": "letsbuild-fc7d4",
+    "storage_bucket": "letsbuild-fc7d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811705485239:android:70bfb7f2eb68c3e4f2ca32",
+        "android_client_info": {
+          "package_name": "com.example.letsbuild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811705485239-nknuo9iem32srhv6ag216kle4gr65buk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letsbuild",
+            "certificate_hash": "cbf40265926ce7b0964634d706b15f770acab844"
+          }
+        },
+        {
+          "client_id": "811705485239-k55a5c9sf65ag0qs4uhefagedrn8gjem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVXpC41wKiyjcYNh2GVzCi8OfECcICKpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811705485239-k55a5c9sf65ag0qs4uhefagedrn8gjem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

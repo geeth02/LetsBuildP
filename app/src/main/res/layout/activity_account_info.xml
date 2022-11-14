@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Account_info">
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="148dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="34dp"
+        android:background="@drawable/button_bg"
+        android:text="NIC Photo Back"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btnFront"
+        app:layout_constraintTop_toBottomOf="@+id/imgNicBack" />
+
+    <Button
+        android:id="@+id/btnFront"
+        android:layout_width="148dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="37dp"
+        android:background="@drawable/button_bg"
+        android:text="NIC Photo Front"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/eTNic"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgNicFont" />
+
+    <ImageView
+        android:id="@+id/imgNicBack"
+        android:layout_width="144dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="34dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/default_image" />
+
+    <ImageView
+        android:id="@+id/imgNicFont"
+        android:layout_width="144dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="52dp"
+        app:layout_constraintEnd_toStartOf="@+id/imgNicBack"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/default_image" />
+
+    <Button
+        android:id="@+id/btnAddInfo"
+        android:layout_width="340dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="34dp"
+        android:background="@drawable/button_bg"
+        android:text="Add Information"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTCity" />
+
+    <EditText
+        android:id="@+id/eTCity"
+        android:layout_width="351dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="11dp"
+        android:background="@drawable/edite_text_layout"
+        android:drawablePadding="10dp"
+        android:hint="City"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTAddress2" />
+
+    <EditText
+        android:id="@+id/eTNic"
+        android:layout_width="351dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="37dp"
+        android:background="@drawable/edite_text_layout"
+        android:drawablePadding="10dp"
+        android:hint="NIC Number"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnBack" />
+
+    <EditText
+        android:id="@+id/eTName"
+        android:layout_width="351dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/edite_text_layout"
+        android:drawablePadding="10dp"
+        android:hint="Name"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTNic" />
+
+    <EditText
+        android:id="@+id/eTPhoneNum"
+        android:layout_width="351dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/edite_text_layout"
+        android:drawablePadding="10dp"
+        android:hint="Phone Number"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTName" />
+
+    <EditText
+        android:id="@+id/eTAddress1"
+        android:layout_width="351dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/edite_text_layout"
+        android:drawablePadding="10dp"
+        android:hint="Address Line 01"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTPhoneNum" />
+
+    <EditText
+        android:id="@+id/eTAddress2"
+        android:layout_width="351dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/edite_text_layout"
+        android:drawablePadding="10dp"
+        android:hint="Address Line 02"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTAddress1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

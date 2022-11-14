@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.letsbuild">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LetsBuild">
+        <activity
+            android:name=".Account_Details_App"
+            android:exported="false" />
+        <activity
+            android:name=".Account_Decline"
+            android:exported="false" />
+        <activity
+            android:name=".AccountApproved"
+            android:exported="false" />
+        <activity
+            android:name=".Account_Details"
+            android:exported="false" />
+        <activity
+            android:name=".Account_Menu"
+            android:exported="false" />
+        <activity
+            android:name=".AccountNotVerifyMassage"
+            android:exported="false" />
+        <activity
+            android:name=".Account_info"
+            android:exported="false" />
+        <activity
+            android:name=".View_Wiring"
+            android:exported="false" />
+        <activity
+            android:name=".View_Civiling"
+            android:exported="false" />
+        <activity
+            android:name=".View_Tiling"
+            android:exported="false" />
+        <activity
+            android:name=".Member_Delete_Ads"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Decline_Ads"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Delete_Ads"
+            android:exported="false" />
+        <activity
+            android:name=".Delete_Selection"
+            android:exported="false" />
+        <activity
+            android:name=".View_Admin_Aproved_Details"
+            android:exported="false" />
+        <activity
+            android:name=".View_Admin_Approved_Ads"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Appoved_Ads"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Pending_Ads"
+            android:exported="false" />
+        <activity
+            android:name=".My_Ads"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Add_Ads"
+            android:exported="false" />
+        <activity
+            android:name=".Pending_Ads_Details"
+            android:exported="false" />
+        <activity
+            android:name=".Approved_Ads"
+            android:exported="false" />
+        <activity
+            android:name=".Pending_Ads_Member"
+            android:exported="false" />
+        <activity
+            android:name=".Add_Service"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".AccountInformation"
+            android:exported="false" />
+        <activity
+            android:name=".View_Roofing"
+            android:exported="false" />
+        <activity
+            android:name=".CrewLogin"
+            android:exported="false" />
+        <activity
+            android:name=".Customer_dash"
+            android:exported="false" />
+        <activity
+            android:name=".Member_Dash"
+            android:exported="false" />
+        <activity
+            android:name=".Lb_Crew"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".selectUser"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
